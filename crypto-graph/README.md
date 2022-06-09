@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Start up server
 
-1. Unzip the zip file into a local file system.
+1. Clone the repository: https://github.com/lohua99/crypto into your local file system.
 2. Make sure that Angular 11.1.2, ng2-charts, and chart.js  are installed on the computer.
 3. Go to ...\crypto-graph directory:
 4. Drop your crpto-prices.csv file into ...\crpto-graph\src\assets directory
